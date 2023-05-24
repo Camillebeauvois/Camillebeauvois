@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Camillebeauvois
 - 👀 I’m interested in joining a community of people who resolve complex problems with tech 
-- 🌱 I’m currently learning to code with Python (level: intermediate+ / online course: "100 Days of Code: The Complete Python Pro Bootcamp for 2023")
+- 🌱 I’m currently learning to code with Python (level intermediate+ of a "100 Days of Code" bootcamp in Udemy)
 - 💞️ I’m looking to collaborate on any projects that can help me practice my skills and learn new languages to develop awesome products !
 - 📫 You can reach me on Linkedin linkedin.com/in/camille-beauvois-5723aba4
 
