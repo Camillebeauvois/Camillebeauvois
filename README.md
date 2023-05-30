@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Camillebeauvois
+- 👋 Hi, I’m @Camila
 - 👀 I’m interested in joining a community of people who resolve complex problems with tech 
 - 🌱 I’m currently learning to code with Python (level intermediate+ of a "100 Days of Code" bootcamp in Udemy)
 - 💞️ I’m looking to collaborate on any projects that can help me practice my skills and learn new languages to develop awesome products !
